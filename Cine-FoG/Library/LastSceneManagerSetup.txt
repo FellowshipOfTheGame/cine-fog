@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Example/SampleScene.unity
+- path: "Assets/Project/Supera\xE7\xE3o/Scenes/Supera\xE7\xE3o.unity"
   isLoaded: 1
   isActive: 1
